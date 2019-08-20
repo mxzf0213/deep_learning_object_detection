@@ -1,7 +1,7 @@
 # deep learning object detection
 A paper list of object detection using deep learning. I wrote this page with reference to [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf) and searching and searching.. 
 
-*Last updated: 2019/07/01*
+*Last updated: 2019/07/31*
 
 #### Update log
 *2018/9/18* - update all of recent papers and make some diagram about history of object detection using deep learning. 
@@ -15,6 +15,8 @@ A paper list of object detection using deep learning. I wrote this page with ref
 *2019/april* - remove author's names and update ICLR 2019 & CVPR 2019 papers.  
 *2019/may* - update CVPR 2019 papers.  
 *2019/june* - update CVPR 2019 papers and dataset paper.  
+*2019/july* - update BMVC 2019 papers and some of ICCV 2019 papers.  
+
 
 
 ##
@@ -313,6 +315,21 @@ FPS(Speed) index is related to the hardware spec(e.g. CPU, GPU, RAM, etc), so it
 - Object detection with location-aware deformable convolution and backward attention filtering | **[CVPR' 19]** |[`[pdf]`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object_Detection_With_Location-Aware_Deformable_Convolution_and_Backward_Attention_Filtering_CVPR_2019_paper.pdf)
 
 - Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection | **[CVPR' 19]** |[`[pdf]`](https://arxiv.org/pdf/1905.05396.pdf)
+
+- **[GFR]** Improving Object Detection from Scratch via Gated Feature Reuse | **[BMVC' 19]** |[`[pdf]`](https://arxiv.org/pdf/1712.00886v2.pdf) | [`[official code - pytorch]`](https://github.com/szq0214/GFR-DSOD)
+
+- **[Cascade RetinaNet]** Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection | **[BMVC' 19]** |[`[pdf]`](https://arxiv.org/pdf/1907.06881v1.pdf)
+
+- Soft Sampling for Robust Object Detection | **[BMVC' 19]** |[`[pdf]`](https://arxiv.org/pdf/1806.06986v2.pdf)
+
+- Multi-adversarial Faster-RCNN for Unrestricted Object Detection | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1907.10343v1.pdf)
+
+- Towards Adversarially Robust Object Detection | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1907.10310v1.pdf)
+
+- **[Cap2Det]** Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1907.10164v1.pdf)
+
+- **[Gaussian YOLOv3]** Gaussian YOLOv3: An Accurate and Fast Object Detector using Localization Uncertainty for Autonomous Driving | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1904.04620.pdf)
+
 
 ##
 
